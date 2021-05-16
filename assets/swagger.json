@@ -6,9 +6,7 @@
     "application/json"
   ],
   "swagger": "2.0",
-  "info": {
-    "description": "Description of all APIs",
-    "title": "Consolidate Services",
+   "Consolidate Services",
     "version": "version not set"
   },
   "paths": {
